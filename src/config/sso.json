@@ -4,6 +4,6 @@
     "clientID" : "IW7tz2OpOJ",
     "scope" : "openid",
     "clientSecret" : "IjJr8gTARG",
-    "callbackURL" : "http://localhost:3000/ssocallback",
+    "callbackURL" : "https://irrigationapp.mybluemix.net/ssocallback",
     "issuer": "iotsecurity-iz5kejwg8s-cu21.iam.ibmcloud.com"
 }
