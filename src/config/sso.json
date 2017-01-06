@@ -1,0 +1,9 @@
+{
+    "authorizationURL" : "https://iotsecurity-iz5kejwg8s-cu21.iam.ibmcloud.com/idaas/oidc/endpoint/default/authorize",
+    "tokenURL" : "https://iotsecurity-iz5kejwg8s-cu21.iam.ibmcloud.com/idaas/oidc/endpoint/default/token",
+    "clientID" : "IW7tz2OpOJ",
+    "scope" : "openid",
+    "clientSecret" : "IjJr8gTARG",
+    "callbackURL" : "http://localhost:3000/ssocallback",
+    "issuer": "iotsecurity-iz5kejwg8s-cu21.iam.ibmcloud.com"
+}

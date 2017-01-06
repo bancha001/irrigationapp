@@ -1,0 +1,37 @@
+[2017-01-06 16:43:59.576] [INFO] IrrigationLogger - RequestId: 1f297670-d3d3-11e6-bea8-ebb097b19bde DeviceType: iotsample-ti-bbst DeviceID: 78a504edd7df CommandType: blink
+[2017-01-06 16:44:00.116] [INFO] IrrigationLogger - getZonesStatus response:{"statusList":[{"zone":1,"switchType":"OFF"},{"zone":2,"switchType":"ON"},{"zone":3,"switchType":"OFF"},{"zone":4,"switchType":"ON"},{"zone":5,"switchType":"OFF"},{"zone":6,"switchType":"ON"}]}
+[2017-01-06 16:48:13.822] [INFO] IrrigationLogger - Connecting MQTT application client
+[2017-01-06 16:48:13.844] [INFO] IrrigationLogger - Successfully connected to our IoT service!
+[2017-01-06 16:48:14.975] [INFO] IrrigationLogger - subscribe to input events
+[2017-01-06 16:48:23.037] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:48:23.039] [INFO] IrrigationLogger - RequestId: bc32b9e0-d3d3-11e6-b913-c55ccf9c48ac DeviceType: iotsample-ti-bbst DeviceID: 78a504edd7df CommandType: blink
+[2017-01-06 16:48:23.606] [INFO] IrrigationLogger - getZonesStatus response:{"statusList":[{"zone":1,"switchType":"OFF"},{"zone":2,"switchType":"ON"},{"zone":3,"switchType":"OFF"},{"zone":4,"switchType":"ON"},{"zone":5,"switchType":"OFF"},{"zone":6,"switchType":"ON"}]}
+[2017-01-06 16:48:32.988] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:50:34.983] [INFO] IrrigationLogger - Connecting MQTT application client
+[2017-01-06 16:50:35.005] [INFO] IrrigationLogger - Successfully connected to our IoT service!
+[2017-01-06 16:50:36.219] [INFO] IrrigationLogger - subscribe to input events
+[2017-01-06 16:50:43.323] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:50:48.310] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:50:49.906] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:51:40.363] [INFO] IrrigationLogger - Connecting MQTT application client
+[2017-01-06 16:51:40.384] [INFO] IrrigationLogger - Successfully connected to our IoT service!
+[2017-01-06 16:51:41.655] [INFO] IrrigationLogger - subscribe to input events
+[2017-01-06 16:51:46.893] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:51:48.151] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:51:49.008] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:52:52.340] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:52:52.341] [INFO] IrrigationLogger - RequestId: 5cb6f340-d3d4-11e6-9262-f1efb6c9ae7e DeviceType: iotsample-ti-bbst DeviceID: 78a504edd7df CommandType: blink
+[2017-01-06 16:52:52.928] [INFO] IrrigationLogger - getZonesStatus response:{"statusList":[{"zone":1,"switchType":"OFF"},{"zone":2,"switchType":"ON"},{"zone":3,"switchType":"OFF"},{"zone":4,"switchType":"ON"},{"zone":5,"switchType":"OFF"},{"zone":6,"switchType":"ON"}]}
+[2017-01-06 16:53:03.574] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:53:03.575] [INFO] IrrigationLogger - RequestId: 63694670-d3d4-11e6-9262-f1efb6c9ae7e DeviceType: iotsample-ti-bbst DeviceID: 78a504edd7df CommandType: blink
+[2017-01-06 16:53:04.184] [INFO] IrrigationLogger - getZonesStatus response:{"statusList":[{"zone":1,"switchType":"OFF"},{"zone":2,"switchType":"ON"},{"zone":3,"switchType":"OFF"},{"zone":4,"switchType":"ON"},{"zone":5,"switchType":"OFF"},{"zone":6,"switchType":"ON"}]}
+[2017-01-06 16:54:00.709] [INFO] IrrigationLogger - Connecting MQTT application client
+[2017-01-06 16:54:00.731] [INFO] IrrigationLogger - Successfully connected to our IoT service!
+[2017-01-06 16:54:01.944] [INFO] IrrigationLogger - subscribe to input events
+[2017-01-06 16:54:05.797] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:54:05.799] [INFO] IrrigationLogger - RequestId: 887fc060-d3d4-11e6-8786-2500e2f7c93c DeviceType: iotsample-ti-bbst DeviceID: 78a504edd7df CommandType: blink
+[2017-01-06 16:54:06.855] [INFO] IrrigationLogger - getZonesStatus response:{"statusList":[{"zone":1,"switchType":"OFF"},{"zone":2,"switchType":"ON"},{"zone":3,"switchType":"OFF"},{"zone":4,"switchType":"ON"},{"zone":5,"switchType":"OFF"},{"zone":6,"switchType":"ON"}]}
+[2017-01-06 16:54:11.717] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:54:16.688] [INFO] IrrigationLogger - getZonesStatus for all
+[2017-01-06 16:54:16.688] [INFO] IrrigationLogger - RequestId: 8efd6f00-d3d4-11e6-8786-2500e2f7c93c DeviceType: iotsample-ti-bbst DeviceID: 78a504edd7df CommandType: blink
+[2017-01-06 16:54:17.299] [INFO] IrrigationLogger - getZonesStatus response:{"statusList":[{"zone":1,"switchType":"OFF"},{"zone":2,"switchType":"ON"},{"zone":3,"switchType":"OFF"},{"zone":4,"switchType":"ON"},{"zone":5,"switchType":"OFF"},{"zone":6,"switchType":"ON"}]}
